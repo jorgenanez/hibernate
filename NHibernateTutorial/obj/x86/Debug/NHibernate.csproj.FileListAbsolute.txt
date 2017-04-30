@@ -1,0 +1,11 @@
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\DBHN.sdf
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\hibernate.cfg.xml
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\Iesi.Collections.pdb
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\Iesi.Collections.xml
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\NHibernate.pdb
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\NHibernate.xml
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\NHibernateTutorial.exe
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\NHibernateTutorial.pdb
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\obj\x86\Debug\NHibernateTutorial.exe
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\obj\x86\Debug\NHibernateTutorial.pdb

@@ -1,0 +1,26 @@
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\MMORPG.sdf
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\NHibernateTutorial.exe
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\NHibernateTutorial.pdb
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\Iesi.Collections.dll
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\NHibernate.dll
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\System.Data.SqlServerCe.dll
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\Iesi.Collections.pdb
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\Iesi.Collections.xml
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\NHibernate.pdb
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\NHibernate.xml
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\obj\x86\Debug\NHibernateTutorial.exe
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\obj\x86\Debug\NHibernateTutorial.pdb
+t:\users\mikeabyss\documents\visual studio 2010\Projects\NHibernateTutorial\NHibernateTutorial\bin\Debug\hibernate.cfg.xml
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\obj\x86\Debug\NHibernateTutorial.exe
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\obj\x86\Debug\NHibernateTutorial.pdb
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\DBHN.sdf
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\hibernate.cfg.xml
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\NHibernateTutorial.exe
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\NHibernateTutorial.pdb
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\Iesi.Collections.pdb
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\Iesi.Collections.xml
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\NHibernate.pdb
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\bin\Debug\NHibernate.xml
+C:\Users\kriste\Desktop\metodo_NHibernate\NHibernateTutorial\obj\x86\Debug\NHibernateTutorial.csprojResolveAssemblyReference.cache
